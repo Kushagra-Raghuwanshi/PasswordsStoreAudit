@@ -1,28 +1,9 @@
 ---
 title: PasswordStore Audit Report
 author: Kushagra Raghuwanshi
-date: September 1, 2023
-header-includes:
-  - \usepackage{titling}
-  - \usepackage{graphicx}
----
-\begin{titlepage}
-    \centering
-    \begin{figure}[h]
-        \centering
-        \includegraphics[width=0.5\textwidth]{logo.pdf} 
-    \end{figure}
-    \vspace*{2cm}
-    {\Huge\bfseries PasswordStore Initial Audit Report\par}
-    \vspace{1cm}
-    {\Large Version 0.1\par}
-    \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
-    \vfill
-    {\large \today\par}
-\end{titlepage}
+date: Feb20, 2025
 
-\maketitle
+
 
 # PasswordStore Audit Report
 
